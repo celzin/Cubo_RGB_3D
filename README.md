@@ -21,7 +21,7 @@ O modelo RGB possui como primárias as cores aditivas vermelhas (R), verdes (G) 
 
 <p align="justify">
 
-Permita visualizar o CUBO de ângulosdiferentes, podendo rotacionar a câmeraou o cubo,em tempo de execuçãoou gerar visualizações de diferentes perspectivas.
+Permita visualizar o CUBO de ângulos diferentes, podendo rotacionar a câmeraou o cubo,em tempo de execuçãoou gerar visualizações de diferentes perspectivas.
 
 </p>
 
