@@ -49,7 +49,7 @@ Primeiramente, realize o download do arquivo <code>projeto3d</code> disponibiliz
 
 <p align="justify">
 
-Logo abaixo, deixo um vídeo GIF que mostra o resultado da aplicação na criação do Cubo RGB em 3D.
+Logo abaixo, deixo um vídeo GIF que mostra o resultado da aplicação na criação do Cubo RGB em 3D proposto pela atividade.
 
 </p>
 
