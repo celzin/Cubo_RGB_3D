@@ -56,6 +56,6 @@ Logo abaixo, deixo um vídeo GIF que mostra o resultado da aplicação na criaç
 <div align="center">
 <img width="800px" src="projeto3d/images_gifs/cuboRGB.gif" />
 
-**GIF** da janela do terminal onde temos nosso **Cubo RGB 3D** sendo **APROXIMADO** e **DISTANCIADO**, enquanto esta sendo **ROTACIONADO**.
+**GIF** da janela do terminal onde temos nosso **CUBO RGB 3D** sendo **APROXIMADO** e **DISTANCIADO**, enquanto é **ROTACIONADO**.
 </div>
 
